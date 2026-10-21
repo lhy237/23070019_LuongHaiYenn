@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+scipy
+matplotlib
+scikit-image
+open3d
+pandas
+plotly
